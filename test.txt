@@ -1,0 +1,22 @@
+git init
+
+git clone --branch <branchname> <giturl>
+
+-------------------------------------------
+git checkout -b <branchname>
+
+git branch
+
+git pull <branchname>
+
+git status
+
+git add .
+
+ls -al
+
+cd to the proper folder
+
+git commit -m 'Commit Message'
+
+git push
